@@ -1,0 +1,95 @@
+{
+  "1190008047733571647": {
+    "trainer_id": "1190008047733571647",
+    "pokemon_trainer": "Ajlakaw",
+    "kind": "Wizard",
+    "pokemon_number": 361,
+    "is_rare": false,
+    "name": "Snorunt",
+    "height": 7,
+    "weight": 168,
+    "types": [
+      "ice"
+    ],
+    "abilities": [
+      "inner-focus",
+      "ice-body",
+      "moody"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 50,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 50
+    },
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
+    "level": 3,
+    "xp": 65,
+    "hunger": 100,
+    "money": 110,
+    "wins": 1,
+    "losses": 1,
+    "last_daily": "",
+    "max_hp": 154,
+    "hp": 154,
+    "attack_power": 24,
+    "defense": 17,
+    "speed": 13,
+    "inventory": {
+      "power": 0,
+      "heal": 0,
+      "shield": 0,
+      "rage": 0
+    },
+    "saved_at": "2026-05-08T21:57:51"
+  },
+  "1494404013331054744": {
+    "trainer_id": "1494404013331054744",
+    "pokemon_trainer": "*-*kayra*bostan*-*",
+    "kind": "Pokemon",
+    "pokemon_number": 298,
+    "is_rare": false,
+    "name": "Azurill",
+    "height": 2,
+    "weight": 20,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "abilities": [
+      "thick-fat",
+      "huge-power",
+      "sap-sipper"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 40,
+      "special-attack": 20,
+      "special-defense": 40,
+      "speed": 20
+    },
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+    "level": 1,
+    "xp": 20,
+    "hunger": 100,
+    "money": 100,
+    "wins": 0,
+    "losses": 0,
+    "last_daily": "",
+    "max_hp": 113,
+    "hp": 57,
+    "attack_power": 15,
+    "defense": 11,
+    "speed": 8,
+    "inventory": {
+      "power": 1,
+      "heal": 1,
+      "shield": 1,
+      "rage": 0
+    },
+    "saved_at": "2026-05-08T21:57:51"
+  }
+}
