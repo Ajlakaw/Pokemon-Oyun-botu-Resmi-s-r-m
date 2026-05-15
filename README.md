@@ -74,3 +74,7 @@
 
 ## ❓ Yardım
 `!yardim`
+
+
+# GALERİ📷
+### (bu kısımda temsili fotolar olacak daha sonra eklenecek...)
